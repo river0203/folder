@@ -9,6 +9,6 @@ html 색상표
 랜파이 색상 변경에 사용
 https://html-color-codes.info/Korean/
 깃허브 가이드 
-git add [파일명]
+git add 파일명
 git commit -m "내용"
 git push -u
